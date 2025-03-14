@@ -8,6 +8,6 @@ unstructured[pdf]
 faiss-cpu
 transformers
 sentence-transformers
-nltk==
+nltk
 pi_heif
 opencv-python
