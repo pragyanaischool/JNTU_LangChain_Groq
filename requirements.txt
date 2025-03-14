@@ -11,3 +11,11 @@ sentence-transformers
 nltk
 pi_heif
 opencv-python
+opencv-python-headless
+textblob
+scipy
+numpy
+pytesseract
+nltk
+pandas
+scikit-learn
