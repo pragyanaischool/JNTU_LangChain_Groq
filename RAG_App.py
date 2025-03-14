@@ -70,7 +70,7 @@ st.set_page_config(
 )
 
 st.title("📝PragyanAI - LangChain-Groq - Chat With your docs 😎")
-st.image("PragyanAI_Transperent.png")
+st.image("Holi - Happy Pragyan.png")
 
 # Initialize session states
 if "chat_history" not in st.session_state:
